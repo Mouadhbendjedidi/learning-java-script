@@ -1,1 +1,1 @@
-console.log("hello mouadh!")
+console.log("mouadh".slice(1,4));
